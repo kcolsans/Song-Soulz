@@ -15,19 +15,19 @@ body {
   /* ============================================================= */
   /* Primary Color
   ================================================================ */
-  --cd-primary-color:                    #8FB7D4;
+  --cd-primary-color:                    #616161;
   --cd-primary-text-color:               #fff;
 
   /* ============================================================= */
   /* Secondary Color
   ================================================================ */
-  --cd-secondary-color:                  #939799;
+  --cd-secondary-color:                  #eed440;
   --cd-secondary-text-color:             #fff;
 
   /* ============================================================= */
   /* Backgrounds
   ================================================================ */
-  --cd-body-background-color:            #f8f8f8;
+  --cd-body-background-color:            #616161;
   --cd-content-background-color:         #ffffff;
   --cd-faded-background-color:           #f8f8f8;
 
