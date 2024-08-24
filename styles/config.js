@@ -21,20 +21,7 @@ let sheetPages = {
 let options = {
 
 
-    /* Index
-    /* --------------------------------------------------------------- */
-    index: {
-
-        promptSheetPage: sheetPages.prompts,
-        numOfPrompts: 3,
-
-        staffSheetPage: sheetPages.staff,
-        numOfStaff: 8,
-
-        masterlistSheetPage: sheetPages.masterlist,
-        numOfDesigns: 4,
-    
-    },
+   
 
 
     /* Masterlist
